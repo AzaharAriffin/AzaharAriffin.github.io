@@ -20,7 +20,7 @@ li{
 	width: 100%;
 	max-width: 630px;
 	margin: 0 auto;
-	padding: 80px 75px;
+	padding: 150px 90px;
 	text-align: center;
 	border-radius: 4px;
 	background-color: white;
@@ -57,7 +57,7 @@ li{
 	margin: 0;
 }
 .list-info{
-	font-size: 16px;
+	font-size: 14px;
 	margin-left: 0;
 	text-transform: uppercase;
 }
@@ -71,13 +71,12 @@ li{
 .socials {
         margin-top: 5px;
         margin-bottom: -90px;
-        margin-left: 650px;
         text-align: center;
 }
 
 .socials li {
         display: inline-block;
-        width: 35px;    
+        width: 60px;    
 }
 
 .social-image img:hover  {
